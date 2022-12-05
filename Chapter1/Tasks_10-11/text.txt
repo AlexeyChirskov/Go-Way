@@ -1,0 +1,9 @@
+1.42s   33248 https://alexa.com
+0.17s   11148 https://ya.ru
+0.30s   16666 https://google.com
+0.13s   33248 https://alexa.com
+0.23s   16753 https://google.com
+0.31s  217428 https://ya.ru
+0.18s   33248 https://alexa.com
+0.27s   16797 https://google.com
+0.44s  217380 https://ya.ru
